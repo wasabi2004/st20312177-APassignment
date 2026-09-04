@@ -10,7 +10,7 @@
     <div class="login-container">
         <div class="login-card">
             <div class="text-center">
-                <h4>🦷 Dental Clinic</h4>
+                <h4>Sunrise Dental Clinic</h4>
                 <p class="subtitle">Login to access the system</p>
             </div>
             
